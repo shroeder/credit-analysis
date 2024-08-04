@@ -17,7 +17,7 @@ const FileUpload = () => {
                 files={files as any}
                 onupdatefiles={setFiles}
                 allowMultiple={true}
-                maxFiles={3}
+                maxFiles={99}
                 name="files"
                 credits={false}
                 server={{

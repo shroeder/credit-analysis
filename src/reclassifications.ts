@@ -176,7 +176,7 @@ export const reclassifications = [
     },
     {
         search: "PAYPAL *Lowes",
-        rename: "Roku",
+        rename: "Lowes",
         classification: "Home"
     },
     {
@@ -703,5 +703,137 @@ export const reclassifications = [
         search: "AMZ*",
         rename: "Amazon",
         classification: "Online Shopping"
+    },
+    {
+        search: "101 chalupsky",
+        rename: "Gas Station",
+        classification: "Gas Station"
+    },
+    {
+        search: "Great Clips",
+        rename: "Hair Cut",
+        classification: "Supplies"
+    },
+    {
+        search: "FARIBAULT ANIMAL CENTER",
+        classification: "Pet Supplies"
+    },
+    {
+        search: "SQ *Posy floral and gifts",
+        classification: "Home"
+    },
+    {
+        search: "Glizara",
+        classification: "Online Shopping"
+    },
+    {
+        search: "CASH ADVANCE INTEREST",
+        classification: "Online Shopping"
+    },
+    {
+        search: "MAYO PHONE",
+        classification: "Doctor/Eye/Dental"
+    },
+    {
+        search: "NORSEMAN LOBSTER",
+        classification: "Restaraunt"
+    },
+    {
+        search: "Something For All",
+        classification: "Online Shopping"
+    },
+    {
+        search: "City Hall Creamery",
+        classification: "Restaraunt"
+    },
+    {
+        search: "Little Red Popcorn",
+        classification: "Restaraunt"
+    },
+    {
+        search: "Souvenir coin",
+        classification: "Family Fun"
+    },
+    {
+        search: "Leeann Chin",
+        classification: "Restaraunt"
+    },
+    {
+        search: "North Shore",
+        classification: "Family Fun"
+    },
+    {
+        search: "Super One",
+        classification: "Grocery Store"
+    },
+    {
+        search: "Three Mad Poppers",
+        classification: "Online Shopping"
+    },
+    {
+        search: "Up North The Good",
+        classification: "Family Fun"
+    },
+    {
+        search: "Woxer",
+        classification: "Online Shopping"
+    },
+    {
+        search: "Paintwithdiamonds",
+        classification: "Online Shopping"
+    },
+    {
+        search: "Best Buy",
+        classification: "Supplies"
+    },
+    {
+        search: "Scheels",
+        classification: "Supplies"
+    },
+    {
+        search: "Thrive Market",
+        classification: "Grocery Store"
+    },
+    {
+        search: "Shell Oil",
+        classification: "Gas Station"
+    },
+    {
+        search: "Taco Johns",
+        rename: "Taco Johns",
+        classification: "Fast Food"
+    },
+    {
+        search: "st francis mc cafeteria",
+        classification: "Fast Food"
+    },
+    {
+        search: "elitequilamexican",
+        classification: "Restaraunt"
+    },
+    {
+        search: "wendy s",
+        rename: "Wendys",
+        classification: "Fast Food"
+    },
+    {
+        search: "Cold Stone",
+        classification: "Fast Food"
+    },
+    {
+        search: "Lau s Bohemian",
+        classification: "Fast Food"
+    },
+    {
+        search: "Pet perfect",
+        classification: "Pet Supplies"
+    },
+    {
+        search: "Party City",
+        classification: "Family Fun"
+    },
+    {
+        search: "Tech Fixers",
+        classification: "Phone"
     },
 ]

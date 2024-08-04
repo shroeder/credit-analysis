@@ -3,7 +3,6 @@ import { colors } from '../../colors'
 
 const StyledMonthlyModule = styled.div`
     padding: 0 12px;
-    user-select: none;
 
     .month-header {
         display: flex;
